@@ -1,105 +1,59 @@
-# Hi, I’m Alex <img height="50" src="./images/hello.png" alt="Hello image" style="vertical-align: bottom;" />
+<div align="center">
+    <h1>Hi, I’m Alex <img height="50" src="./images/hello.png" alt="Hello image" /></h1>
+</div>
 
-## My interests
+<div align="center">
+    <h2>My interests</h2>
+</div>
+<div align="center">
+    <img src="./images/interests/InterestsBlock1.svg" />
+    <img src="./images/interests/InterestsBlock2.svg" />
+</div>
 
-<section style="color: #adb5bd; display: flex; flex-direction: column; gap: 10px;">
-    <div style="background: #343a40; padding: 10px 20px; display: flex; gap: 20px; align-items: center; justify-content: space-between; border-radius: 8px;">
-        <span style="font-size: 15px;">I’m interested in web development, programming, and various electronics</span>
-        <img src="./images/web-development.png" alt="Web development image" style="width: 120px; height: auto;" />
-    </div>
-    <div style="background: #343a40; padding: 10px 20px; display: flex; gap: 20px; align-items: center; justify-content: space-between; border-radius: 8px;">
-        <span style="font-size: 15px;">I’m currently learning Node.js</span>
-        <img src="./images/learning.png" alt="Learning image" style="width: 90px; height: auto;" />
-    </div>
-</section>
-
-## My skills
-
-<section style="display: flex; flex-wrap: wrap; gap: 8px; color: #adb5bd">
-    <a style="display: flex; padding: 5px 10px 5px 2px; border-radius: 8px; background: #343a40; flex: 1 0 150px; cursor: pointer">
-        <div style="display: flex; align-items: center; justify-content: space-between; border-radius: 8px; flex: 1 0 150px">
-            <img src="./images/react.png" alt="React Logo" width="50" height="50">
-            <span>React</span>
-        </div>
+<div align="center">
+    <h2>My skills</h2>
+</div>
+<div align="center">
+    <a href="https://react.dev/">
+        <img src="./images/skills/SkillsBlock1.svg" alt="React" title="React" />
     </a>
-    <a style="display: flex; padding: 5px 10px 5px 2px; border-radius: 8px; background: #343a40; flex: 1 0 150px; cursor: pointer">
-        <div style="display: flex; align-items: center; justify-content: space-between; border-radius: 8px; flex: 1 0 150px">
-            <img src="./images/git.png" alt="Git Logo" width="50" height="50">
-            <span>Git</span>
-        </div>
+    <a href="https://git-scm.com/">
+        <img src="./images/skills/SkillsBlock2.svg" alt="Git" title="Git" />
     </a>
-    <a style="display: flex; padding: 5px 10px 5px 2px; border-radius: 8px; background: #343a40; flex: 1 0 150px; cursor: pointer">
-        <div style="display: flex; align-items: center; justify-content: space-between; border-radius: 8px; flex: 1 0 150px">
-            <img src="./images/html.png" alt="HTML, CSS, JS Logo" width="50" height="50">
-            <span>HTML 5</span>
-        </div>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+        <img src="./images/skills/SkillsBlock3.svg" alt="HTML 5" title="HTML 5" />
     </a>
-    <a style="display: flex; padding: 5px 10px 5px 2px; border-radius: 8px; background: #343a40; flex: 1 0 150px; cursor: pointer">
-        <div style="display: flex; align-items: center; justify-content: space-between; border-radius: 8px; flex: 1 0 150px">
-            <img src="./images/css.png" alt="CSS Logo" width="50" height="50">
-            <span>CSS 3</span>
-        </div>
+</div>
+<div align="center">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="./images/skills/SkillsBlock4.svg" alt="CSS3" title="CSS3" />
     </a>
-    <a style="display: flex; padding: 5px 10px 5px 2px; border-radius: 8px; background: #343a40; flex: 1 0 150px; cursor: pointer">
-        <div style="display: flex; align-items: center; justify-content: space-between; border-radius: 8px; flex: 1 0 150px">
-            <img src="./images/js.png" alt="JavaScript Logo" width="50" height="50">
-            <span>JavaScript</span>
-        </div>
+    <a href="https://en.wikipedia.org/wiki/JavaScript">
+        <img src="./images/skills/SkillsBlock5.svg" alt="JavaScript" title="JavaScript" />
     </a>
-    <a style="display: flex; padding: 5px 10px 5px 2px; border-radius: 8px; background: #343a40; flex: 1 0 150px; cursor: pointer">
-        <div style="display: flex; align-items: center; justify-content: space-between; border-radius: 8px; flex: 1 0 150px">
-            <img src="./images/nodejs.png" alt="Node.js Logo" width="50" height="50">
-            <span>Node.js</span>
-        </div>
+    <a href="https://nodejs.org/">
+        <img src="./images/skills/SkillsBlock6.svg" alt="Node.js" title="Node.js" />
     </a>
-</section>
+</div>
 
-## How to reach me
+<div align="center">
+    <h2>How to reach me</h2>
+</div>
+<div align="center">
+    <a href="https://www.linkedin.com/in/oleksii-kobylianskyi-developer/">
+        <img src="./images/contacts/Contact1.svg" alt="LinkedIn Logo" />
+    </a>
+    <a href="https://github.com/AlexProgrammer1234">
+        <img src="./images/contacts/Contact2.svg" alt="GitHub Logo" />
+    </a>
+    <!-- <a href="#"><img src="./images/contacts/Contact3.svg" alt="Gmail Logo" /></a> -->
+</div>
 
-<section style="display: flex; flex-direction: column; gap: 10px;">
-    <div style="background: #343a40; border-radius: 8px; padding: 10px 20px; display: flex; align-items: center; justify-content: space-between;">
-        <div style="display: flex; align-items: center; gap: 20px;">
-            <img src="./images/linkedin.png" height="60px" alt="LinkedIn Logo"/>
-            <span>LinkedIn</span>
-        </div>
-        <a href="https://www.linkedin.com/in/oleksii-kobylianskyi-developer/" target="_blank">
-            <button style="outline: none; border-radius: 6px; padding: 5px 10px; border: none; background: #6c757d; cursor: pointer; color: #dee2e6;">Contact</button>
-        </a>
-    </div>
-    <div style="background: #343a40; border-radius: 8px; padding: 10px 20px; display: flex; align-items: center; justify-content: space-between;">
-        <div style="display: flex; align-items: center; gap: 20px;">
-            <img src="./images/github.png" height="60px" alt="GitHub Logo"/>
-            <span>GitHub</span>
-        </div>
-        <a href="https://github.com/AlexProgrammer1234" target="_blank">
-            <button style="outline: none; border-radius: 6px; padding: 5px 10px; border: none; background: #6c757d; cursor: pointer; color: #dee2e6;">Contact</button>
-        </a>
-    </div>
-    <div style="background: #343a40; border-radius: 8px; padding: 10px 20px; display: flex; align-items: center; justify-content: space-between;">
-        <div style="display: flex; align-items: center; gap: 20px;">
-            <img src="./images/gmail.png" height="60px" alt="Gmail Logo"/>
-            <span>Gmail</span>
-        </div>
-        <span>-</span>
-    </div>
-</section>
-
-## Current projects
-
-<section style="display: grid; grid-template-columns: repeat(2, 1fr); grid-auto-rows: minmax(50px, auto); gap: 10px;">
-    <div style="background: #343a40; border-radius: 8px; padding: 10px; display: flex; justify-content: space-between;">
-        <div style="display: flex; gap: 10px;">
-            <img style="border-radius: 6px;" height="70" src="./images/projects/activeg.webp" alt="Project logo" />
-            <div style="display: flex; flex-direction: column; justify-content: space-between;">
-                <span style="font-size: 14px; color: white;">ACTIVE Generation Site</span>
-                <div style="display: flex; align-items: center; gap: 5px;">
-                    <span style="height: 6px; width: 6px; background-color: green; border-radius: 50%; display: inline-block; box-shadow: 0 0 5px green;"></span>
-                    <span style="font-size: 11px;">Under Development</span>
-                </div>
-            </div>
-        </div>
-        <a href="https://active-g-site-development.onrender.com/" target="_blank">
-            <button style="outline: none; border-radius: 6px; padding: 5px 10px; margin-left: 5px; border: none; background: #6c757d; cursor: pointer; color: #dee2e6;">Visit</button>
-        </a>
-    </div>
-</section>
+<div align="center">
+    <h2>Current projects</h2>
+</div>
+<div align="center">
+    <a href="https://active-g-site-development.onrender.com/">
+        <img src="./images/projects/Activeg.svg" alt="Project Image" />
+    </a>
+</div>
